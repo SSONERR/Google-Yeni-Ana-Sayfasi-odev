@@ -1,0 +1,80 @@
+body {
+    margin: 0
+    ;
+}
+.solüst {
+    background-color: white;
+    width: 1600px;
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 13px;
+    float: left;
+}
+.sağ1 {
+    background-color: white;
+    width: 100px;
+    margin-top: 20px;
+    font-size: 14px;
+    float: left;
+    padding-left: 44px;
+
+}
+.buton {
+    background-color: rgb(78, 134, 255); 
+    color: white; 
+    height: 30px;
+    width: 69px;
+    margin-left: 22px;
+    margin-top: 15px;
+    border: 0px;
+    float: left;
+    font-size: 13px;
+}
+.orta {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 273px;
+    padding-top: 152px;
+    
+}
+#ara {
+    width: 470px;
+    height: 20px;
+    border: solid 0px;
+    margin-left: 10px;
+}
+.ikon {
+    height: 45px;
+    background-color: white;
+    width: 585px;
+    margin: 23px auto;
+    border-radius: 35px;
+    border: solid 1px;  
+    background-color: whaqua;
+
+  border-color: rgb(219, 217, 217);
+}
+.tuş {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px ;
+    height: 200px;
+    padding-left: 200px;
+    padding-top: 8px;
+}
+.tuşlar {
+    width: 135px;
+    height: 35px;
+    border-radius: 3px;
+    border: solid 0px; 
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.alt {
+    background-color: rgb(236, 240, 240);
+    height: 42px;
+    margin-top: 375px;
+}
